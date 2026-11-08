@@ -1,0 +1,6 @@
+{
+  "name": "Fernhollow — Әлемдегі аштық мәселесі және азық-түлік тапшылығы",
+  "description": "Әлемдегі аштық мәселесі және азық-түлік тапшылығының себептері туралы интерактивті 3D түнгі алқап саяхаты.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
